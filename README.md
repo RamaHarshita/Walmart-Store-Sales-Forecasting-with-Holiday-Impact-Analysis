@@ -54,12 +54,6 @@ Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13 Labor Day: 10-Sep-10, 9-Se
 * There is some latency concerns.
 
 
-## Repository Structure
-
-1. **Walmart_Sales_Forecasting.ipynb:** The Jupyter notebook containing code for the recommendation engines
-2. **Data** should be put in data folder
-
-
 ## Software Require
 1. Jupyter notebook
 2. Python
